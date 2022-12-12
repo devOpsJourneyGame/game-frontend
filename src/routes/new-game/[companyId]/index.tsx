@@ -29,7 +29,7 @@ export default component$(() => {
             ))
         }
       </div>
-      <Link class="button-game" href={`/new-game/${location.params.companyId}/game`}>Start the game</Link>
+      <Link class="button-game" href={`/new-game/${location.params.companyId}/game`}>Go to scenarios!</Link>
     </div>
   );
 });

@@ -37,7 +37,7 @@ export default component$(() => {
         ))}
       </div>
       <br></br>
-      <button onClick$={ () => history.back() }>Back to Instructions</button>
+      <button class="button-game" onClick$={ () => history.back() }>View instructions</button>
     </div>
   );
 });
