@@ -250,8 +250,8 @@ a.button {
 .company .card__background {color: #6e833e; left: 70%;}
 .scenario .card__header {background: #3d5e9b;}
 .scenario .card__background {color: #3d5e9b; left: 85%;}
-.devops .card__header {background: #a346dd ;}
-.devops .card__background {color: #a346dd ; left: 70%;}
+.devops .card__header {background: #604272 ;}
+.devops .card__background {color: #604272 ; left: 70%;}
 
 .card {font-family: Arial, Helvetica, sans-serif; font-size: 13px; background: #fff}
 .card__header{color: white;height: 60px;text-align: center;}
